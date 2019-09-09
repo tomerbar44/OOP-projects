@@ -1,14 +1,9 @@
-תעודת זהות: 305171159
-שם: תומר בר
-מסלול רגיל.
-(מגיש לבד,אישור מדניאל)
+The program ran with a db file containing 2 therapists, 2 patients, 2 secretaries, 2 appointments.
 
-התוכנית רצה עם קובץ db אשר מכיל 2 מטפלים,2 מטופלים,2 מזכירות,2 פגישות.
-
-לאחר הקריאה מהקובץ, נפתח תפריט:
-1.LOGIN-הכנסת תעודת זהות ונפתח תפריט בהתאם לתפקיד
-2.SIGNUP-אופציה להוסיף משתמש חדש.(סוג משתמש(1-בשביל מטפל,2-בשביל מטופל,3-בשביל מזכירה),גיל,שם פרטי,שם משפחה,ת"ז)
-3.CLOSE -סוגרת את התוכנית לאחר כל השינויים וכותבת את המידע חזרה אל db
+After reading from the file, a menu opens:
+1.LOGIN- Enter an ID and a menu will open according to the job
+2.SIGNUP- Option to add a new user (user type (1-for therapist 2-for patient, 3-for secretary), age, first name, last name, ID)
+3.CLOSE - Closes the program after all the changes and writes the information back to db
 
 
-מהקריאה מקובץ סטטוס הפגישה נקרא כמספר וממויין לאחר מכן לסוג שלו באובייקט. כנל בכתיבה לקובץ הוא נכתב כמספר על מנת לאפשר שימוש חוזר נוח בקובץ.
+The call from the session status file is called as number and then sorted to its type in the object. As a write-to-file, it is written as a number to allow convenient file reuse.
