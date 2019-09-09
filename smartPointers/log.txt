@@ -1,0 +1,36 @@
+Init sucsses
+----------------
+New cycle create: 1998 
+----------------
+Student 65899652 added to depatrment
+----------------
+Student 305171159 added to depatrment
+----------------
+Student 65899652 start
+----------------
+Student added 65899652 to course 121 
+ ----------------
+Student 305171159 start
+----------------
+Student added 305171159 to course 122 
+ ----------------
+Course 122 finish
+----------------
+Student 65899652finish course 121 
+----------------
+Student 65899652 dont found
+ ----------------
+Student 65899652 remove from departmemt 
+----------------
+Student not found in any course.
+----------------
+Student cycle year: 1998 
+----------------
+Currnet student: 2 
+Currnet student list : 
+1 : First name: Dan | Last name: Cohen | ID: 65899652 | Adress :Tel-Aviv Dereh-ha-shalom 120 | Start: 1998 | Depatrment: Engineering | Points: 4 
+ Finished student list : 
+1 : First name: Tomer | Last name: Cohen | ID: 305171159 | Adress :Tel-Aviv Dereh-ha-shalom 120 | Start: 1998 | Depatrment: Engineering | Points: 160 
+ Course number: 121 |Course points: 4 |Course name: OO&Design Patterns 
+Student list : empty  
+----------------
